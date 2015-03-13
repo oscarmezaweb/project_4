@@ -1,0 +1,30 @@
+Time spent working on project. 
+Coding: 1hr
+Troubleshooting: 2hrs
+Testing: 1.5hr
+deploying: 1hr
+
+audioNoteEditView.html 31 --create drop down list
+textNoteEditView.html 31 -- create drop down list
+
+noteListItem.html 27-31 -- add new status variable so that we can control and save the status change and display it
+
+audioNoteEditView.js copied changes from textNoteEditView (textNoteEditView was edited last project. Changes should the same)
+						--includes
+							ln 76 grab elements from DOM
+							ln 86 save status function
+							ln 126 plug into variable %NEW_STATUS% from audioNoteEditView
+							ln 142 grab element from DOM to save and add eventlistener
+							ln 160 add event listener (onclick)
+							
+baseNote.js changes here are used to save the new status into a permanet way.
+						--inlcudes
+							ln 132 added new property definitions for status
+							ln 247 added the status into the JSON strigfy method
+							ln 270 added status to the _deserialize JSON method
+							ln 321 added initialize with options that include status
+							
+noteStorage.js --added statuChange notification at line 71
+
+
+	
