@@ -209,7 +209,7 @@ define( [ "yasmf", "app/models/noteStorageSingleton", "text!html/noteListView.ht
               "UID": notes[ note ].uid,
               "TRASH": _y.T( "TRASH" ),
               "NAME": notes[ note ].name,
-			  "STATUS": notes[ note ].status, 	// JASON MOD - CHANGES TO USER INPUT FROM EDIT VIEW
+			  "STATUS": notes[ note ]._status, 	// JASON MOD - CHANGES TO USER INPUT FROM EDIT VIEW
               "REPRESENTATION": notes[ note ].representation,
               "MODIFIED": _y.D( notes[ note ].modifiedDate, "D" ),
               "INFO": "" + _y.N( notes[ note ].formattedUnitValue )
