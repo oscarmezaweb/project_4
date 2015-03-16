@@ -1,3 +1,12 @@
+New functionabitly to add icons instead of plaintext change location
+
+yasmf.css ln 913-- add new icon definitions with class names that reflect the status
+style.css ln 160-- properties used for the size and position of the new icons
+yasm assets folder -- added the new icons in png format
+noteListItem.html ln 30 -- added div tag with new class .note-status and new class name with variable %status% in order to change icons according to user input
+
+
+
 Time spent working on project. 
 Coding: 1hr
 Troubleshooting: 2hrs
