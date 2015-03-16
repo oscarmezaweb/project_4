@@ -905,6 +905,32 @@ div {
  * Icon Glyphs
  *
  *****************************************************************************/
+  /*****************************************************************************
+ *
+ * Jenny Oscar and Jason mod to add the new icons archive new and follow up
+ *
+ *****************************************************************************/
+ .ui-glyph-Archive {
+  -webkit-mask-image: url("./yasmf-assets/archives@2x.png");
+  -moz-mask-image: url("./yasmf-assets/archives@2x.png");
+  -ms-mask-image: url("./yasmf-assets/archives@2x.png");
+  -o-mask-image: url("./yasmf-assets/archives@2x.png");
+  mask-image: url("./yasmf-assets/archives@2x.png"); }
+  
+  .ui-glyph-New {
+  -webkit-mask-image: url("./yasmf-assets/new@2x.png");
+  -moz-mask-image: url("./yasmf-assets/new@2x.png");
+  -ms-mask-image: url("./yasmf-assets/new@2x.png");
+  -o-mask-image: url("./yasmf-assets/new@2x.png");
+  mask-image: url("./yasmf-assets/new@2x.png"); }
+  
+   .ui-glyph-Follow-Up {
+  -webkit-mask-image: url("./yasmf-assets/follow-up@2x.png");
+  -moz-mask-image: url("./yasmf-assets/follow-up@2x.png");
+  -ms-mask-image: url("./yasmf-assets/follow-up@2x.png");
+  -o-mask-image: url("./yasmf-assets/follow-up@2x.png");
+  mask-image: url("./yasmf-assets/follow-up@2x.png"); }
+  
 .ui-glyph-arrow-corners-inward {
   -webkit-mask-image: url("./yasmf-assets/arrow-corners-inward@2x.png");
   -moz-mask-image: url("./yasmf-assets/arrow-corners-inward@2x.png");

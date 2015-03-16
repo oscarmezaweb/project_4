@@ -79,6 +79,7 @@ C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf.css \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf.js \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\cultures\globalize.culture.en-US.js \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\cultures\globalize.culture.es-US.js \
+C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\archives@2x.png \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\arrow-corners-inward@2x.png \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\arrow-corners-outward@2x.png \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\arrow-right@2x.png \
@@ -104,12 +105,14 @@ C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\cl
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\delete@2x.png \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\download@2x.png \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\film@2x.png \
+C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\follow-up@2x.png \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\gear@2x.png \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\gps-locate@2x.png \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\list@2x.png \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\magnifying-glass@2x.png \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\menu@2x.png \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\more@2x.png \
+C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\new@2x.png \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\page-text-new@2x.png \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\pause-filled@2x.png \
 C:\sandbox\webd265\project_4\platforms\android\assets\www\js\lib\yasmf-assets\pause-hollow@2x.png \

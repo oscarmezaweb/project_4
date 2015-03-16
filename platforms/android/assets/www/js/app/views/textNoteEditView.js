@@ -73,14 +73,14 @@ define( [ "yasmf", "app/models/noteStorageSingleton",
 	/**
 	*Jenny
 	*	 
-	* JASON MOD - GRABS THE value from dropdown list FROM THE DOM
+	* JASON--Oscar MOD - GRABS THE value from dropdown list FROM THE DOM
 	*/
 	  self._note.status = self._currentStatus.value;
 	  
 	 /**
 	 *Jenny 
 	 *
-	 * JASON MOD - FUNCTION TO SAVE STATUS
+	 * JASON--Oscar MOD - FUNCTION TO SAVE STATUS
 	 *
 	 */
 	 self.changeStatus = function () {
@@ -121,7 +121,7 @@ define( [ "yasmf", "app/models/noteStorageSingleton",
 		/**
 		* Jenny
 		*
-		* JASON MOD - PLUGS status INTO EDIT VIEW STATUS
+		* JASON--Oscar MOD - PLUGS status INTO EDIT VIEW STATUS
 		*/
 		"NEW_STATUS": self._note.status
       } );
@@ -140,7 +140,7 @@ define( [ "yasmf", "app/models/noteStorageSingleton",
 		/**
 		* Jenny
 		*
-		* JASON MOD ADDED THIS HOOK
+		* JASON--oscar MOD ADDED THIS HOOK
 		*/
 	  self._currentStatus = self.element.querySelector(
         ".ui-navigation-bar .ui-bar-button-group.ui-align-right .ui-new-status" ); 
@@ -155,7 +155,7 @@ define( [ "yasmf", "app/models/noteStorageSingleton",
 	  	/**
 		* Jenny
 		*
-		* JASON MOD - ADD A LISTENER TO STATUS
+		* JASON--Oscar MOD - ADD A LISTENER TO STATUS
 		*/
 	  _y.UI.event.addListener( self._currentStatus, "click", self.changeStatus);
     };
