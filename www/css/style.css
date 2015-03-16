@@ -157,6 +157,18 @@ body.android {
   height: 30px;
   width: 30px;
 }
+/* jenny 
+oscar and jason mod
+added .note-status as the class name to give the icon a size and to position it
+*/
+.noteListView .ui-list-item .note-status{
+background-color: rgba(87, 52, 32, 0.5); 
+  height: 30px;
+  width: 30px;
+  margin-right:4em;
+  float:right;
+
+}
 .android .noteListView .ui-list-item .note-representation {
   background-color: #484848;
 }
