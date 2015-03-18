@@ -20,6 +20,20 @@
  * OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
  * OTHER DEALINGS IN THE SOFTWARE.
  */
+ /*
+ * Change Log
+ * Name					Date		Change
+ * Oscar Meza			3/18/2015	Added css to to style the new icon functionability  denoted by -- Jenny
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ */
 
 /* General styles */
 
@@ -157,7 +171,7 @@ body.android {
   height: 30px;
   width: 30px;
 }
-/* jenny 
+/* Jenny 
 oscar and jason mod
 added .note-status as the class name to give the icon a size and to position it
 */
